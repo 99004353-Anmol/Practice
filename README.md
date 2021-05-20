@@ -1,7 +1,7 @@
 
 ## State Of Art
 
-## Features with Time 
+# Features with Time 
 
 | Time | Feature |
 | ----- | ----- |
@@ -10,7 +10,7 @@
 | Future | Near future all these games shall be modified with more advanced graphics and thus can give us a realistic experience like playing them offline on board or paper. |
 
 
-## Cost with Time 
+# Cost with Time 
 
 | Time | Feature |
 | ----- | ----- |
