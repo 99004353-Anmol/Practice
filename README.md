@@ -12,7 +12,7 @@
 
 ## Cost with Time 
 
-| Time | Feature |
+| Time | Cost |
 | ----- | ----- |
 | Past | Earlier playing games use to cost less than 1000 where we just need to buy game in physical form for 1 time.  |
 | Present | These days playing games costs 0-10000 where we need to pay for internet usage, to buy servers and need to pay some amount for paid games and so on. |
