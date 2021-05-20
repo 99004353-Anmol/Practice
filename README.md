@@ -1,8 +1,7 @@
-# Practice
 
+## State Of Art
 
 ## Features with Time 
-
 
 | Time | Feature |
 | ----- | ----- |
@@ -12,4 +11,10 @@
 
 
 ## Cost with Time 
+
+| Time | Feature |
+| ----- | ----- |
+| Past | Earlier playing games use to cost less than 1000 where we just need to buy game in physical form for 1 time.  |
+| Present | These days playing games costs 0-10000 where we need to pay for internet usage, to buy servers and need to pay some amount for paid games and so on. |
+| Future | Coming years cost shall be increased to 0-100000 where we will be able to play games with high graphics on low system configuration through cloud and cost of paid games will also increase as they shall be giving you more realistic experience.  |
 
